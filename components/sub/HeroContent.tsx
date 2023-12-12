@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <a
-            href="https://drive.google.com/file/d/1S0vJCrCZQBFv4S46uwr9FxQVVg0_juF2/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1wwYGUhfE7e8mtx7-ykFhoVpdjQdc2tkf/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -60,7 +60,7 @@ const HeroContent = () => {
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
           <a
-            href="https://drive.google.com/file/d/1S0vJCrCZQBFv4S46uwr9FxQVVg0_juF2/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1wwYGUhfE7e8mtx7-ykFhoVpdjQdc2tkf/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
