@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <a
-            href="https://drive.google.com/file/d/15UZtYcgIgOnsMXKwoDSnqjQf6KCkq7ny/view?usp=sharing"
+            href="https://drive.google.com/file/d/1w5gaNJM6PDAkL3o-MS3Opdqws69UytwA/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
